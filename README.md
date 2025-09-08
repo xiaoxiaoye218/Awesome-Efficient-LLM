@@ -5,8 +5,10 @@
 - [Quantization](#Quantization)
   - [LLM Quantization](#LLM-Quantization)
   - [VLM Quantization](#VLM-Quantization)
+- [Knowledge Distillation](#Knowledge-Distillation)
+- [Low-rank Decomposition](#Low-rank-Decomposition)
 - [KV Cache Compression](#KV-Cache-Compression)
-
+- [Speculative Decoding](#Speculative-Decoding)
 
 ---
 # Sparsity and Pruning
@@ -23,6 +25,14 @@
 
 ## VLM Quantization
 
+---
+# Knowledge Distillation
+
+---
+# Low-rank Decomposition
 
 ---
 # KV Cache Compression
+
+---
+# Speculative Decoding
