@@ -32,7 +32,9 @@
 
 ---
 # Knowledge Distillation
-
+| Year | Title                                                                   | Venue   | Paper                                 | code                                                                                                                        |
+| ---- | ----------------------------------------------------------------------- | ------- | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 2025 | LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation              | ICLR 2025 | [Link](https://arxiv.org/pdf/2408.15881) | [Link](https://github.com/shufangxun/LLaVA-MoD) ![](https://img.shields.io/github/stars/shufangxun/LLaVA-MoD.svg?style=social) |
 ---
 # Low-Rank Decomposition
 
