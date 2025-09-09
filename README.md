@@ -56,4 +56,12 @@
 
 ---
 # Speculative Decoding
+| Year | Title                                                        | Venue    | Paper                                    | code                                                         |
+| ---- | ------------------------------------------------------------ | -------- | ---------------------------------------- | ------------------------------------------------------------ |
+| 2024 | Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting|NeurIPS 2024|[Kangaroo](https://arxiv.org/abs/2404.18911) | [code](https://github.com/Equationliu/Kangaroo)|
+| 2024 | EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees|EMNLP 2024|[EAGLE2](https://arxiv.org/abs/2406.16858) | [code](https://github.com/SafeAILab/EAGLE)|
+| 2025 |Learning Harmonized Representations for Speculative Sampling|ICLR 2025|[HASS](https://arxiv.org/pdf/2408.15766) |[code](https://github.com/HArmonizedSS/HASS) |
+| 2025 |Parallel Speculative Decoding with Adaptive Draft Length|ICLR 2025|[PEARL](https://arxiv.org/pdf/2408.11850) |[code](https://github.com/smart-lty/ParallelSpeculativeDecoding) |
+
+
 
