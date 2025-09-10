@@ -37,7 +37,9 @@
 | 2025 | LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation              | ICLR 2025 | [Link](https://arxiv.org/pdf/2408.15881) | [Link](https://github.com/shufangxun/LLaVA-MoD) ![](https://img.shields.io/github/stars/shufangxun/LLaVA-MoD.svg?style=social) |
 ---
 # Low-Rank Decomposition
-
+| Year | Title                                                                   | Venue   | Paper                                 | code                                                                                                                        |
+| ---- | ----------------------------------------------------------------------- | ------- | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 2024 | Compressing Large Language Models using Low Rank and Low Precision Decomposition | NeurIPS 2024 | [Link](https://openreview.net/pdf?id=lkx3OpcqSZ) | [Link](https://github.com/pilancilab/caldera) ![](https://img.shields.io/github/stars/pilancilab/caldera.svg?style=social) |
 ---
 # KV Cache Compression
 ## Token Eviction(also known as Token Selection)
