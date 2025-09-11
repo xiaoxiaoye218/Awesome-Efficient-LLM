@@ -46,18 +46,21 @@
 | 2023 | H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models | NeurIPS 2023 | [Link](https://arxiv.org/abs/2306.14048) | [Link](https://github.com/FMInference/H2O) ![](https://img.shields.io/github/stars/FMInference/H2O.svg?style=social) |
 | 2023 | Efficient Streaming Language Models with Attention Sinks | ICLR 2024 | [Link](https://arxiv.org/abs/2309.17453) | [Link](https://github.com/mit-han-lab/streaming-llm) ![](https://img.shields.io/github/stars/mit-han-lab/streaming-llm.svg?style=social) |
 | 2024 | SnapKV: LLM Knows What You are Looking for Before Generation | NeurIPS 2024 | [Link](https://arxiv.org/abs/2404.14469) | [Link](https://github.com/FasterDecoding/SnapKV) ![](https://img.shields.io/github/stars/FasterDecoding/SnapKV.svg?style=social) |
+| 2025 | R-KV: Redundancy-aware KV Cache Compression for Reasoning Models |  | [Link](https://arxiv.org/abs/2505.24133) | [Link](https://github.com/Zefan-Cai/R-KV) ![](https://img.shields.io/github/stars/Zefan-Cai/R-KV.svg?style=social) |
 
 ## Budget Allocation
 | Year | Title                                                        | Venue    | Paper                                    | code                                                         |
 | ---- | ------------------------------------------------------------ | -------- | ---------------------------------------- | ------------------------------------------------------------ |
 | 2024 | PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling |  | [Link](https://arxiv.org/abs/2406.02069v4) | [Link](https://github.com/Zefan-Cai/KVCache-Factory) ![](https://img.shields.io/github/stars/Zefan-Cai/KVCache-Factory.svg?style=social) |
-| 2025 | LaCache: Ladder-Shaped KV Caching for Efficient Long-Context Modeling of Large Language Models | ICML2025 | [Link](https://arxiv.org/abs/2507.14204) | [Link](https://github.com/GATECH-EIC/LaCache) ![](https://img.shields.io/github/stars/GATECH-EIC/LaCache.svg?style=social) |
+| 2025 | LaCache: Ladder-Shaped KV Caching for Efficient Long-Context Modeling of Large Language Models | ICML 2025 | [Link](https://arxiv.org/abs/2507.14204) | [Link](https://github.com/GATECH-EIC/LaCache) ![](https://img.shields.io/github/stars/GATECH-EIC/LaCache.svg?style=social) |
+| 2025 | CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences | ICLR 2025 | [Link](https://arxiv.org/abs/2503.12491) | [Link](https://github.com/antgroup/cakekv) ![](https://img.shields.io/github/stars/antgroup/cakekv.svg?style=social) |
 
 ## KV Cache Merging
 | Year | Title                                                        | Venue    | Paper                                    | code                                                         |
 | ---- | ------------------------------------------------------------ | -------- | ---------------------------------------- | ------------------------------------------------------------ |
 | 2024 | MiniCache: KV Cache Compression in Depth Dimension for Large Language Models | NeurIPS 2024 | [Link](https://arxiv.org/abs/2405.14366) | [Link](https://github.com/AkideLiu/MiniCache) ![](https://img.shields.io/github/stars/AkideLiu/MiniCache.svg?style=social) |
 | 2024 | CaM: Cache Merging for Memory-efficient LLMs Inference | ICML 2024 | [Link](https://openreview.net/forum?id=LCTmppB165) | [Link](https://github.com/zyxxmu/cam) ![](https://img.shields.io/github/stars/zyxxmu/cam.svg?style=social) |
+| 2024 | D2O: Dynamic Discriminative Operations for Efficient Long-Context Inference of Large Language Models | ICLR 2025 | [Link](https://arxiv.org/abs/2406.13035) | [Link](https://github.com/AIoT-MLSys-Lab/D2O) ![](https://img.shields.io/github/stars/AIoT-MLSys-Lab/D2O.svg?style=social) |
 
 ## KV Cache Quantization
 | Year | Title                                                        | Venue    | Paper                                    | code                                                         |
@@ -65,6 +68,8 @@
 | 2024 | IntactKV: Improving Large Language Model Quantization by Keeping Pivot Tokens Intact | ACL 2024 | [Link](https://arxiv.org/abs/2403.01241) | [Link](https://github.com/ruikangliu/IntactKV) ![](https://img.shields.io/github/stars/ruikangliu/IntactKV.svg?style=social) |
 | 2024 | KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache | ICML 2024 | [Link](https://arxiv.org/abs/2402.02750) | [Link](https://github.com/jy-yuan/KIVI) ![](https://img.shields.io/github/stars/jy-yuan/KIVI.svg?style=social) |
 | 2024 | KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization | NeurIPS 2024 | [Link](https://arxiv.org/abs/2401.18079) | [Link](https://github.com/SqueezeAILab/KVQuant) ![](https://img.shields.io/github/stars/SqueezeAILab/KVQuant.svg?style=social) |
+| 2024 | SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models | COLM 2024 | [Link](https://arxiv.org/abs/2405.06219) | [Link](https://github.com/cat538/SKVQ) ![](https://img.shields.io/github/stars/cat538/SKVQ.svg?style=social) |
+
 
 
 ---
