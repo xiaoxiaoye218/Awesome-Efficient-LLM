@@ -30,8 +30,9 @@
 | 2025 | QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving | MLSys 2025 | [Link](https://arxiv.org/abs/2405.04532) |  [Link](https://github.com/mit-han-lab/omniserve) ![](https://img.shields.io/github/stars/mit-han-lab/omniserve.svg?style=social) |
 | 2024 | QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs         | NeurIPS 2024 | [Link](https://arxiv.org/abs/2404.00456) |[Link](https://github.com/spcl/QuaRot)![](https://img.shields.io/github/stars/spcl/QuaRot.svg?style=social)|
 | 2024 | Atom: Low-bit Quantization for Efficient and Accurate LLM Serving | MLSys 2024 | [Link](https://arxiv.org/abs/2404.00456) |[Link](https://github.com/efeslab/Atom)![](https://img.shields.io/github/stars/efeslab/Atom.svg?style=social) |
-
-
+| 2024 | OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models | ICLR 2024 | [Link](https://arxiv.org/abs/2308.13137) |[Link](https://github.com/OpenGVLab/OmniQuant)![](https://img.shields.io/github/stars/OpenGVLab/OmniQuant.svg?style=social)|
+| 2023 | QuIP: 2-Bit Quantization of Large Language Models With Guarantees | NeurIPS 2023 | [Link](https://arxiv.org/abs/2307.13304) | [Link](https://github.com/AlpinDale/QuIP-for-Llama?tab=readme-ov-file)![](https://img.shields.io/github/stars/AlpinDale/QuIP-for-Llama.svg?style=social) |
+| 2022 | LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale | NeurIPS 2022 | [Link](https://arxiv.org/abs/2208.07339) | [Link](https://github.com/tloen/llama-int8)![](https://img.shields.io/github/stars/tloen/llama-int8.svg?style=social) |
 
 ## VLM Quantization
 | Year | Title                                                                   | Venue   | Paper                                 | code                                                                                                                        |
