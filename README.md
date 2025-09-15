@@ -34,6 +34,9 @@
 
 
 ## VLM Quantization
+| Year | Title                                                                   | Venue   | Paper                                 | code                                                                                                                        |
+| ---- | ----------------------------------------------------------------------- | ------- | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 2024 | Q-VLM: Post-training Quantization for Large Vision Language Models      | NIPS 2024 | [Link](https://arxiv.org/pdf/2410.08119) | [Link](https://github.com/ChangyuanWang17/QVLM) ![](https://img.shields.io/github/stars/ChangyuanWang17/QVLM.svg?style=social) |
 
 ---
 # Knowledge Distillation
