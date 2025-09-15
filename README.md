@@ -38,6 +38,15 @@
 | ---- | ----------------------------------------------------------------------- | ------- | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 2024 | Q-VLM: Post-training Quantization for Large Vision Language Models      | NIPS 2024 | [Link](https://arxiv.org/pdf/2410.08119) | [Link](https://github.com/ChangyuanWang17/QVLM) ![](https://img.shields.io/github/stars/ChangyuanWang17/QVLM.svg?style=social) |
 
+## DiT Quantization
+
+| Year | Title | Venue | Task | Paper | Code |
+|------|-------|-------|------|-------|------|
+| 2025 | SVDQuant: Absorbing Outliers by Low-Rank Component for 4-Bit Diffusion Models | ICLR 2025 | T2I | [Link](https://arxiv.org/pdf/2411.05007) | [Link](https://github.com/nunchaku-tech/nunchaku) ![](https://img.shields.io/github/stars/nunchaku-tech/nunchaku.svg?style=social) |
+| 2025 | ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation | ICLR 2025 | Image Generation | [Link](https://arxiv.org/pdf/2406.02540) | [Link](https://github.com/thu-nics/ViDiT-Q) ![](https://img.shields.io/github/stars/thu-nics/ViDiT-Q.svg?style=social) |
+| 2023 | Post-training Quantization on Diffusion Models | CVPR 2023 | T2I、T2V | [Link](https://arxiv.org/pdf/2211.15736) | [Link](https://github.com/42Shawn/PTQ4DM) ![](https://img.shields.io/github/stars/42Shawn/PTQ4DM.svg?style=social) |
+| 2023 | Q-Diffusion: Quantizing Diffusion Models | ICCV 2023 | Image Generation | [Link](https://arxiv.org/pdf/2302.04304) | [Link](https://github.com/Xiuyu-Li/q-diffusion) ![](https://img.shields.io/github/stars/Xiuyu-Li/q-diffusion.svg?style=social) |
+
 ---
 # Knowledge Distillation
 | Year | Title                                                                   | Venue   | Paper                                 | code                                                                                                                        |
