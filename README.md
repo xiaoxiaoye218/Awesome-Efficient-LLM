@@ -108,6 +108,7 @@
 | 2024 | EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees|EMNLP 2024|[EAGLE2](https://arxiv.org/abs/2406.16858) | [code](https://github.com/SafeAILab/EAGLE) ![](https://img.shields.io/github/stars/SafeAILab/EAGLE.svg?style=social)|
 | 2025 |Learning Harmonized Representations for Speculative Sampling|ICLR 2025|[HASS](https://arxiv.org/pdf/2408.15766) |[code](https://github.com/HArmonizedSS/HASS) ![](https://img.shields.io/github/stars/HArmonizedSS/HASS.svg?style=social)|
 | 2025 |Parallel Speculative Decoding with Adaptive Draft Length|ICLR 2025|[PEARL](https://arxiv.org/pdf/2408.11850) |[code](https://github.com/smart-lty/ParallelSpeculativeDecoding) ![](https://img.shields.io/github/stars/smart-lty/ParallelSpeculativeDecoding.svg?style=social)|
-
-
+| 2025 |SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration|ICLR 2025|[SWIFT](https://openreview.net/pdf?id=EKJhH5D5wA) |[code](https://github.com/hemingkx/SWIFT) ![](https://img.shields.io/github/stars/hemingkx/SWIFT.svg?style=social)|
+| 2025 |Pre-Training Curriculum for Multi-Token Prediction in Language Models|ACL 2025 |[paper](https://github.com/aynetdia/mtp_curriculum) | [code](https://github.com/aynetdia/mtp_curriculum) ![](https://img.shields.io/github/stars/aynetdia/mtp_curriculum.svg?style=social)|
+| 2025 |Faster Speculative Decoding via Effective Draft Decoder with Pruned Candidate Tree|ACL 2025 |[paper](https://aclanthology.org/2025.acl-long.486.pdf) | N/A |
 
