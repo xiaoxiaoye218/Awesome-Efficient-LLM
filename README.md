@@ -72,6 +72,10 @@
 | 2024 | Unified Low-rank Compression Framework for Click-through Rate Prediction | KDD 2024 | [Link](https://arxiv.org/abs/2405.18146) | [Link](https://github.com/yuhao318/Atomic_Feature_Mimicking) ![](https://img.shields.io/github/stars/yuhao318/Atomic_Feature_Mimicking.svg?style=social) |
 | 2025 | Pivoting Factorization: A Compact Meta Low-Rank Representation of Sparsity for Efficient Inference in Large Language Models | ICML 2025 | [Link](https://icml.cc/virtual/2025/poster/46433) | [Link](https://github.com/biomedical-cybernetics/pivoting-factorization) ![](https://img.shields.io/github/stars/biomedical-cybernetics/pivoting-factorization.svg?style=social) |
 | 2024 | SliceGPT: Orthogonal Slicing for Parameter-Efficient Transformer Compression | ICLR 2024 | [Link](https://arxiv.org/abs/2401.15024) | [Link](https://github.com/microsoft/TransformerCompression) ![](https://img.shields.io/github/stars/microsoft/TransformerCompression.svg?style=social) |
+| 2024 | Low-Rank Knowledge Decomposition for Medical Foundation Models | CVPR 2024 | [Link](https://arxiv.org/abs/2409.19540) | [Link](https://github.com/MediaBrain-SJTU/LoRKD) ![](https://img.shields.io/github/stars/MediaBrain-SJTU/LoRKD.svg?style=social) |
+| 2024 | LORS: Low-rank Residual Structure for Parameter-Efficient Network Stacking | CVPR 2024 | [Link](https://arxiv.org/abs/2403.04303) | [Link](https://github.com/li-jl16/LORS) ![](https://img.shields.io/github/stars/li-jl16/LORS.svg?style=social) |
+| 2021 | Decomposable-Net: Scalable Low-Rank Compression for Neural Networks | IJCAI 2021 | [Link](https://www.ijcai.org/proceedings/2021/447) | [Link](https://github.com/ygcats/Scalable-Low-Rank-Compression-for-Neural-Networks) ![](https://img.shields.io/github/stars/ygcats/Scalable-Low-Rank-Compression-for-Neural-Networks.svg?style=social) |
+
 ---
 # KV Cache Compression
 ## Token Eviction(also known as Token Selection)
