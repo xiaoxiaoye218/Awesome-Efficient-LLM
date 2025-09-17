@@ -74,7 +74,10 @@
 | 2024 | InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory | NeurIPS 2024 | [Link](https://arxiv.org/abs/2402.04617) | [Link](https://github.com/thunlp/InfLLM) ![](https://img.shields.io/github/stars/thunlp/InfLLM.svg?style=social) |
 | 2024 | Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs | ICLR 2024 | [Link](https://arxiv.org/abs/2310.01801) | [Link](https://github.com/machilusZ/FastGen) ![](https://img.shields.io/github/stars/machilusZ/FastGen.svg?style=social) |
 | 2024 | Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference | MLSys 2024 | [Link](https://arxiv.org/abs/2403.09054) | [Link](https://github.com/d-matrix-ai/keyformer-llm) ![](https://img.shields.io/github/stars/d-matrix-ai/keyformer-llm.svg?style=social) |
+| 2024 | Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference | ICML 2024 | [Link](https://arxiv.org/abs/2406.10774) | [Link](https://github.com/mit-han-lab/quest) ![](https://img.shields.io/github/stars/mit-han-lab/quest.svg?style=social) |
 | 2025 | R-KV: Redundancy-aware KV Cache Compression for Reasoning Models |  | [Link](https://arxiv.org/abs/2505.24133) | [Link](https://github.com/Zefan-Cai/R-KV) ![](https://img.shields.io/github/stars/Zefan-Cai/R-KV.svg?style=social) |
+| 2025 | SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator | ICML 2025 | [Link](https://arxiv.org/abs/2412.12094) | [Link](https://github.com/HKUDS/SepLLM) ![](https://img.shields.io/github/stars/HKUDS/SepLLM.svg?style=social) |
+| 2025 | Squeezed Attention: Accelerating Long Context Length LLM Inference | ACL 2025 | [Link](https://arxiv.org/abs/2411.09688) | [Link](https://github.com/SqueezeAILab/SqueezedAttention) ![](https://img.shields.io/github/stars/SqueezeAILab/SqueezedAttention.svg?style=social) |
 
 ## Budget Allocation
 | Year | Title                                                        | Venue    | Paper                                    | code                                                         |
@@ -88,6 +91,7 @@
 | ---- | ------------------------------------------------------------ | -------- | ---------------------------------------- | ------------------------------------------------------------ |
 | 2024 | MiniCache: KV Cache Compression in Depth Dimension for Large Language Models | NeurIPS 2024 | [Link](https://arxiv.org/abs/2405.14366) | [Link](https://github.com/AkideLiu/MiniCache) ![](https://img.shields.io/github/stars/AkideLiu/MiniCache.svg?style=social) |
 | 2024 | CaM: Cache Merging for Memory-efficient LLMs Inference | ICML 2024 | [Link](https://openreview.net/forum?id=LCTmppB165) | [Link](https://github.com/zyxxmu/cam) ![](https://img.shields.io/github/stars/zyxxmu/cam.svg?style=social) |
+| 2024 | Compressed Context Memory For Online Language Model Interaction | ICLR 2024 | [Link](https://arxiv.org/abs/2312.03414) | [Link](https://github.com/snu-mllab/context-memory) ![](https://img.shields.io/github/stars/snu-mllab/context-memory.svg?style=social) |
 | 2024 | D2O: Dynamic Discriminative Operations for Efficient Long-Context Inference of Large Language Models | ICLR 2025 | [Link](https://arxiv.org/abs/2406.13035) | [Link](https://github.com/AIoT-MLSys-Lab/D2O) ![](https://img.shields.io/github/stars/AIoT-MLSys-Lab/D2O.svg?style=social) |
 
 ## KV Cache Quantization
