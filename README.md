@@ -56,7 +56,11 @@
 # Knowledge Distillation
 | Year | Title                                                                   | Venue   | Paper                                 | code                                                                                                                        |
 | ---- | ----------------------------------------------------------------------- | ------- | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 2025 | Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression | CVPR 2025 | [Link](https://arxiv.org/abs/2504.02011) | [Link](https://github.com/dohyun-as/Random-Conditioning) ![](https://img.shields.io/github/stars/dohyun-as/Random-Conditioning.svg?style=social) |
 | 2025 | LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation              | ICLR 2025 | [Link](https://arxiv.org/pdf/2408.15881) | [Link](https://github.com/shufangxun/LLaVA-MoD) ![](https://img.shields.io/github/stars/shufangxun/LLaVA-MoD.svg?style=social) |
+| 2023 | AD-KD: Attribution-Driven Knowledge Distillation for Language Model Compression | ACL 2023 | [Link](https://arxiv.org/abs/2305.10010) | [Link](https://github.com/brucewsy/AD-KD) ![](https://img.shields.io/github/stars/brucewsy/AD-KD.svg?style=social) |
+| 2022 | TinyViT: Fast Pretraining Distillation for Small Vision Transformers | ECCV 2022 | [Link](https://arxiv.org/pdf/2207.10666) | [Link](https://github.com/wkcn/tinyvit) ![](https://img.shields.io/github/stars/wkcn/tinyvit.svg?style=social) |
+| 2020 | Few Sample Knowledge Distillation for Efficient Network Compression | CVPR 2020 | [Link](https://arxiv.org/abs/1812.01839) | [Link](https://github.com/LTH14/FSKD) ![](https://img.shields.io/github/stars/LTH14/FSKD.svg?style=social) |
 ---
 # Low-Rank Decomposition
 | Year | Title                                                                   | Venue   | Paper                                 | code                                                                                                                        |
