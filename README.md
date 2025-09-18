@@ -102,7 +102,11 @@
 | 2024 | MiniCache: KV Cache Compression in Depth Dimension for Large Language Models | NeurIPS 2024 | [Link](https://arxiv.org/abs/2405.14366) | [Link](https://github.com/AkideLiu/MiniCache) ![](https://img.shields.io/github/stars/AkideLiu/MiniCache.svg?style=social) |
 | 2024 | CaM: Cache Merging for Memory-efficient LLMs Inference | ICML 2024 | [Link](https://openreview.net/forum?id=LCTmppB165) | [Link](https://github.com/zyxxmu/cam) ![](https://img.shields.io/github/stars/zyxxmu/cam.svg?style=social) |
 | 2024 | Compressed Context Memory For Online Language Model Interaction | ICLR 2024 | [Link](https://arxiv.org/abs/2312.03414) | [Link](https://github.com/snu-mllab/context-memory) ![](https://img.shields.io/github/stars/snu-mllab/context-memory.svg?style=social) |
+| 2024 | Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference | ICML 2024 | [Link](https://arxiv.org/abs/2403.09636) | N/A |
+| 2024 | LOOK-M: Look-Once Optimization in KV Cache for Efficient Multimodal Long-Context Inference | EMNLP 2024 Findings | [Link](https://arxiv.org/abs/2406.18139) | [Link](https://github.com/SUSTechBruce/LOOK-M) ![](https://img.shields.io/github/stars/SUSTechBruce/LOOK-M.svg?style=social) |
+| 2024 | CHAI: Clustered Head Attention for Efficient LLM Inference | ICML 2024 | [Link](https://arxiv.org/abs/2403.08058) | [Link](https://github.com/facebookresearch/chai) ![](https://img.shields.io/github/stars/facebookresearch/chai.svg?style=social) |
 | 2024 | D2O: Dynamic Discriminative Operations for Efficient Long-Context Inference of Large Language Models | ICLR 2025 | [Link](https://arxiv.org/abs/2406.13035) | [Link](https://github.com/AIoT-MLSys-Lab/D2O) ![](https://img.shields.io/github/stars/AIoT-MLSys-Lab/D2O.svg?style=social) |
+| 2025 | AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning | ICCV 2025 | [Link](https://arxiv.org/abs/2412.03248) | [Link](https://github.com/LaVi-Lab/AIM) ![](https://img.shields.io/github/stars/LaVi-Lab/AIM.svg?style=social) |
 
 ## KV Cache Quantization
 | Year | Title                                                        | Venue    | Paper                                    | code                                                         |
