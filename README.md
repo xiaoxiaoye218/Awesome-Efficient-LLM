@@ -39,6 +39,10 @@
 | 2024 | AffineQuant: Affine Transformation Quantization for Large Language Models | ICLR 2024 | [Link](https://arxiv.org/pdf/2403.12544) |[Link](https://github.com/bytedance/AffineQuant)![](https://img.shields.io/github/stars/bytedance/AffineQuant.svg?style=social)|
 | 2024 |LLM-QAT: Data-Free Quantization Aware Training for Large Language Models|ACL 2024|[Link](https://arxiv.org/pdf/2305.17888)|[Link](https://github.com/facebookresearch/LLM-QAT)![](https://img.shields.io/github/stars/facebookresearch/LLM-QAT.svg?style=social)|
 | 2024 | BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation | ACL 2024 | [Link](https://arxiv.org/abs/2402.10631) | [Link](https://github.com/DD-DuDa/BitDistiller)![](https://img.shields.io/github/stars/DD-DuDa/BitDistiller.svg?style=social) |
+| 2023 | OWQ: Outlier-Aware Weight Quantization for Efficient Fine-Tuning and Inference of Large Language Models | AAAI 2024 (Oral) | [Link](https://arxiv.org/abs/2306.02272) | [Link](https://github.com/xvyaward/owq)![](https://img.shields.io/github/stars/xvyaward/owq.svg?style=social) |
+| 2024 | SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression | ICLR 2024 | [Link](https://arxiv.org/abs/2306.03078) | [Link](https://github.com/Vahe1994/SpQR)![](https://img.shields.io/github/stars/Vahe1994/SpQR.svg?style=social) |
+| 2022 | ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers | NeurIPS 2022 | [Link](https://arxiv.org/abs/2206.01861) | [Link](https://github.com/microsoft/DeepSpeed)![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social) |
+
 
 ## VLM Quantization
 | Year | Title                                                                   | Venue   | Paper                                 | code                                                                                                                        |
