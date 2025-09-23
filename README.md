@@ -42,6 +42,10 @@
 | 2023 | OWQ: Outlier-Aware Weight Quantization for Efficient Fine-Tuning and Inference of Large Language Models | AAAI 2024 (Oral) | [Link](https://arxiv.org/abs/2306.02272) | [Link](https://github.com/xvyaward/owq)![](https://img.shields.io/github/stars/xvyaward/owq.svg?style=social) |
 | 2024 | SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression | ICLR 2024 | [Link](https://arxiv.org/abs/2306.03078) | [Link](https://github.com/Vahe1994/SpQR)![](https://img.shields.io/github/stars/Vahe1994/SpQR.svg?style=social) |
 | 2022 | ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers | NeurIPS 2022 | [Link](https://arxiv.org/abs/2206.01861) | [Link](https://github.com/microsoft/DeepSpeed)![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social) |
+| 2024 | LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models | ICLR 2024        | [Link](https://arxiv.org/abs/2206.09557) | [Link](https://github.com/naver-aics/lut-gemm)![](https://img.shields.io/github/stars/naver-aics/lut-gemm.svg?style=social) |
+| 2024 | OneBit: Towards Extremely Low-bit Large Language Models | NeurIPS 2024 | [Link](https://arxiv.org/abs/2402.11295) | [Link](https://github.com/xuyuzhuang11/OneBit)![](https://img.shields.io/github/stars/xuyuzhuang11/OneBit.svg?style=social) |
+| 2023 | LLM-FP4: 4-bit Floating-Point Quantized Transformers | EMNLP 2023 | [Link](https://arxiv.org/abs/2310.16836) | [Link](https://github.com/nbasyl/LLM-FP4)![](https://img.shields.io/github/stars/nbasyl/LLM-FP4.svg?style=social) |
+
 
 
 ## VLM Quantization
