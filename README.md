@@ -66,6 +66,8 @@
 | 2024 | Towards Accurate Post-training Quantization for Diffusion Models | CVPR 2024 | Image Generation | [Link](https://arxiv.org/pdf/2305.18723) | [Link](https://github.com/ChangyuanWang17/APQ-DM) ![](https://img.shields.io/github/stars/ChangyuanWang17/APQ-DM.svg?style=social) |
 | 2024 | EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models | ICLR 2024 | Image Generation | [Link](https://arxiv.org/pdf/2310.03270) | [Link](https://github.com/ThisisBillhe/EfficientDM) ![](https://img.shields.io/github/stars/ThisisBillhe/EfficientDM.svg?style=social) |
 | 2025 | Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers | CVPR 2025 | T2I、T2V | [Link](https://arxiv.org/pdf/2406.17343) | [Link](https://github.com/Juanerx/Q-DiT) ![](https://img.shields.io/github/stars/Juanerx/Q-DiT.svg?style=social) |
+| 2025 | SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration | ICLR 2025 | T2I、T2V | [Link](https://arxiv.org/pdf/2410.02367) | [Link](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention.svg?style=social) |
+| 2024 | TFMQ-DM: Temporal Feature Maintenance Quantization for Diffusion Models | CVPR 2024 | Image Generation | [Link](https://arxiv.org/pdf/2311.16503) | [Link](https://github.com/ModelTC/TFMQ-DM) ![](https://img.shields.io/github/stars/ModelTC/TFMQ-DM.svg?style=social) |
 ---
 # Knowledge Distillation
 | Year | Title                                                                   | Venue   | Paper                                 | code                                                                                                                        |
