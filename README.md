@@ -70,6 +70,9 @@
 | 2024 | TFMQ-DM: Temporal Feature Maintenance Quantization for Diffusion Models | CVPR 2024 | Image Generation | [Link](https://arxiv.org/pdf/2311.16503) | [Link](https://github.com/ModelTC/TFMQ-DM) ![](https://img.shields.io/github/stars/ModelTC/TFMQ-DM.svg?style=social) |
 | 2023 | Temporal Dynamic Quantization for Diffusion Models | NIPS 2023 |  | [Link](https://arxiv.org/pdf/2306.02316v2) | [Link](https://github.com/ECoLab-POSTECH/TDQ_NeurIPS2023) ![](https://img.shields.io/github/stars/ECoLab-POSTECH/TDQ_NeurIPS2023.svg?style=social) |
 | 2024 | DiTFastAttn: Attention Compression for Diffusion Transformer Models | NIPS 2024 | T2I、T2V | [Link](https://arxiv.org/pdf/2406.08552) | [Link](https://github.com/thu-nics/DiTFastAttn) ![](https://img.shields.io/github/stars/thu-nics/DiTFastAttn.svg?style=social) |
+| 2025 | Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity | ICML 2025 | T2V | [Link](https://arxiv.org/pdf/2502.01776) | [Link](https://github.com/svg-project/Sparse-VideoGen) ![](https://img.shields.io/github/stars/svg-project/Sparse-VideoGen.svg?style=social) |
+| 2025 | Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model | CVPR 2025 | T2V | [Link](https://arxiv.org/pdf/2411.19108) | [Link](https://github.com/ali-vilab/TeaCache) ![](https://img.shields.io/github/stars/ali-vilab/TeaCache.svg?style=social) |
+| 2025 | From Reusing to Forecasting: Accelerating Diffusion Models with TaylorSeers | ICCV 2025 | T2V | [Link](https://arxiv.org/pdf/2503.06923) | [Link](https://github.com/Shenyi-Z/TaylorSeer) ![](https://img.shields.io/github/stars/Shenyi-Z/TaylorSeer.svg?style=social) |
 ---
 # Knowledge Distillation
 | Year | Title                                                                   | Venue   | Paper                                 | code                                                                                                                        |
